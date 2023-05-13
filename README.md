@@ -1,6 +1,6 @@
 # TSF-Basic-Banking-Project
-The Sparks Foundation Web Development Task 1 Project on Basic Banking System by Rajdeep Das
+The Project on Basic Online Banking System using HTML, CSS, Javascript 
 
 Project Link:
 
-https://rajspeaks.github.io/banking-system/
+https://4041-Praveena.github.io/banking-system/
